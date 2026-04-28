@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+/* Layout principal */
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+/* El contenido crece */
+main {
+    flex: 1;
+}
+
+footer {
+    margin-top: auto;
+}
