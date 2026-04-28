@@ -50,29 +50,29 @@ Extras:
 ---------------------------------------------------------------------------
 ## Capturas de pantalla
 ###  Pantalla de Login
-![Login-es](screenshots/01-ES-LOGIN.png)
+![Login-es](screenshots/01-ES-LOGIN.jpg)
 
-![Login-en](screenshots/01-EN-LOGIN.png)
+![Login-en](screenshots/01-EN-LOGIN.jpg)
 
 ### Gestión de Clientes
-![Gestion-es](screenshots/02-ES-FORMULARIO.png)
+![Gestion-es](screenshots/02-ES-FORMULARIO.jpg)
 
-![Gestion-en](screenshots/02-EN-FORM.png)
+![Gestion-en](screenshots/02-EN-FORM.jpg)
 
 ### Agregar de Cliente
-![Agregar-es](screenshots/03-ES-AGREGAR.png)
+![Agregar-es](screenshots/03-ES-AGREGAR.jpg)
 
-![Clientes-en](screenshots/03-EN-ADD.png)
+![Clientes-en](screenshots/03-EN-ADD.jpg)
 
 ### Editar de Cliente
-![Editar-es](screenshots/04-ES-EDITAR.png)
+![Editar-es](screenshots/04-ES-EDITAR.jpg)
 
-![Clientes-en](screenshots/04-EN-EDIT.png)
+![Clientes-en](screenshots/04-EN-EDIT.jpg)
 
 ### Vista Usuario sin permisos
-![User-es](screenshots/05-EN-USER.png)
+![User-es](screenshots/05-EN-USER.jpg)
 
-![Clientes-en](screenshots/06-ES-USER.png)
+![Clientes-en](screenshots/06-ES-USER.jpg)
 
 
 ---------------------------------------------------------------------------
